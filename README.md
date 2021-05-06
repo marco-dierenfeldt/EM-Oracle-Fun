@@ -5,6 +5,8 @@ Small project to have fun building code to make predictions of the outcome  for 
 2) If your favourite language/technology/framework allready exists simply add your version in a clean way to the existing launcher.
 3) Every single solution shall take the two teamnames as parameter and return a text containing the goals of each team and proclaim the winner.
 ## Additional info
-A first example is implemented in react and therefore resides in the react subfolder. Feel free to share and spread the word.
+A first example is implemented in react and therefore resides in the react subfolder. If you are interested in extending the existing react app, follow the README.md file there. 
+
+Feel free to share and spread the word.
 
 Have Fun!
